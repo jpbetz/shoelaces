@@ -9,5 +9,5 @@ dist
 .cache
 .project
 .settings
-confg/jbetz-application.conf
-confg/application.conf
+conf/jbetz-application.conf
+conf/application.conf
